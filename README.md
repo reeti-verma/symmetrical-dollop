@@ -1,2 +1,3 @@
 # symmetrical-dollop
 This is my first Git repository 
+Author - Reeti Verma
